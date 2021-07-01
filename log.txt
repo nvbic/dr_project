@@ -1,0 +1,1 @@
+2021-07-01 01:24:00 - Transformer_Relation_Extraction - INFO - mode: mul; predict file: ['/home/zehao.yu/workspace/py3/dr_ann/result/predictions.txt']; output: /home/zehao.yu/workspace/py3/dr_ann/result/relation_predicted_results_bert
