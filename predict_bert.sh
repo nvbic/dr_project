@@ -1,4 +1,4 @@
-
+##use bert_mimic result to predict
 export CUDA_VISIBLE_DEVICES=0
 bz=4
 epn=3
@@ -45,3 +45,4 @@ python3 /home/zehao.yu/workspace/py3/dr_ann/ClinicalTransformerRelationExtractio
                 --test_data_file ${data_dir}/test.tsv \
                 --brat_result_output_dir $pod\
                 --log_file $log
+
